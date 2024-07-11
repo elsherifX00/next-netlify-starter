@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Takeover By CyberAr" />
         <p className="description">
-           <code>pages/index.js</code>
+           <code>This page is takeover by CyberAr</code>
         </p>
       </main>
 
